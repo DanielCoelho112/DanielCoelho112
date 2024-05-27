@@ -4,7 +4,7 @@ Hi! My name is Daniel Coelho
 AI Research Scientist
 ---------------------
 
-I'm currently finishing my Ph.D. on Aritificial Intelligence and Autonomous Driving at the University of Aveiro. My research interests include Deep Learning and Reinforcement Learning. Big fan of end-to-end Autonomous driving.
+I'm currently completing my Ph.D. in Artificial Intelligence and Autonomous Driving at the University of Aveiro. My research interests encompass Deep Learning and Reinforcement Learning. I'm particularly passionate about the potential of end-to-end Autonomous Driving systems to revolutionize the future of transportation.
 
 * 🖥️  See my portfolio at [Google Scholar](http://scholar.google.com/citations?user=6XR_qa8AAAAJ&hl=en)
 * ✉️  You can contact me at [dani\_filipe11@hotmail.com](mailto:dani_filipe11@hotmail.com)
@@ -22,10 +22,3 @@ I'm currently finishing my Ph.D. on Aritificial Intelligence and Autonomous Driv
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DanielCoelho112" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/danielcoelho11/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/daniel-coelho-1aa44a1b2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/DanielCoelho112"><img src="https://github-readme-stats.vercel.app/api?username=DanielCoelho112&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="DanielCoelho112's GitHub stats" /></a>
-
