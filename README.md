@@ -10,8 +10,6 @@ I'm currently finishing my Ph.D. on Aritificial Intelligence and Autonomous Driv
 * ✉️  You can contact me at [dani\_filipe11@hotmail.com](mailto:dani_filipe11@hotmail.com)
 * 🧠  I'm learning more about Large Language Models (LLMs) and its application to Autonomous Driving
 
-<a href="https://www.github.com/DanielCoelho112" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DanielCoelho112?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -31,12 +29,3 @@ src="https://img.shields.io/github/followers/DanielCoelho112?logo=github&style=f
 
 <a href="http://www.github.com/DanielCoelho112"><img src="https://github-readme-stats.vercel.app/api?username=DanielCoelho112&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="DanielCoelho112's GitHub stats" /></a>
 
-<a href="http://www.github.com/DanielCoelho112"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DanielCoelho112&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/DanielCoelho112/rlfold" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCoelho112&repo=rlfold&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/DanielCoelho112/rlad" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCoelho112&repo=rlad&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/DanielCoelho112/priboot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCoelho112&repo=priboot&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/DanielCoelho112/synfeal" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCoelho112&repo=synfeal&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
