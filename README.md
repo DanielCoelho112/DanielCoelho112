@@ -8,7 +8,7 @@ Ph.D. in Artificial Intelligence. My research interests encompass Deep Learning 
 
 * 🖥️  See my portfolio at [Google Scholar](http://scholar.google.com/citations?user=6XR_qa8AAAAJ&hl=en)
 * ✉️  You can contact me at [dani\_filipe11@hotmail.com](mailto:dani_filipe11@hotmail.com)
-* 🧠  I'm learning more about Large Language Models (LLMs) and its application to Autonomous Driving
+
 
 
 ### Skills
