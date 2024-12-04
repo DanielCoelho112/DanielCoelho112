@@ -1,10 +1,10 @@
-Hi! My name is Daniel Coelho
+Daniel Coelho
 =====================================================================================================================================
 
-Applied Scientist
+Applied Scientist @ Amazon
 ---------------------
 
-Ph.D. in Artificial Intelligence. My research interests encompass Deep Learning and Reinforcement Learning. I'm particularly passionate about the potential of end-to-end Autonomous Driving systems to revolutionize the future of transportation.
+Ph.D. in Artificial Intelligence. My research interests encompass Deep Learning and Reinforcement Learning.
 
 * 🖥️  See my portfolio at [Google Scholar](http://scholar.google.com/citations?user=6XR_qa8AAAAJ&hl=en)
 * ✉️  You can contact me at [dani\_filipe11@hotmail.com](mailto:dani_filipe11@hotmail.com)
